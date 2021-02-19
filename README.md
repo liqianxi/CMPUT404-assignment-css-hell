@@ -44,4 +44,6 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+This work is licensed under a Creative Commons Attribution-NoDerivs 2.0 Canada License.
+
 
