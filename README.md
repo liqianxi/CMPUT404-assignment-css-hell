@@ -16,7 +16,9 @@ Change in part 1:<br>
 Change internal css to external css, create a css file to contain all the css code<br>
 Change the background color to #F7EED6 <br>
 Edit some font, align, font size, margin stuff <br>
+Change path to the asset picture and add caption to it<br>
 Remove some unused style code in the original code.<br><br>
+
 
 Citation:<br>
 Stolen from https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp<br>
