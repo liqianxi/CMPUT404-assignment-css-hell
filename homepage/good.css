@@ -1,0 +1,49 @@
+section {
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border: solid;
+    padding: 1em;
+    border-color: black;    
+}
+body{
+    vertical-align: auto;
+    border: solid;
+    border-color: black;
+    margin: 1em;
+    background-color: bisque;
+}
+h1 {
+    text-align: center;
+    font-size:3em;
+}
+img {
+    width:30%;
+    margin-left: 35%;
+}
+#quote{
+    text-align: center;
+    margin: 2em;
+    font-size: x-large;
+}
+.sidenav {
+    width: 64px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 1em; /* Stay at the top */
+    left: 1em;
+    background-color: #111; /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+  }
+  
+  /* The navigation menu links */
+  .sidenav a {
+    padding: 6px 6px 6px 6px;
+    text-decoration: none;
+    font-size: 12px;
+    color: white;
+    display: block;
+  }
